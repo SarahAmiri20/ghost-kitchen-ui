@@ -4,6 +4,10 @@ This is a Figma project I designed for a ghost kitchen platform, focusing on a s
 
 🔗 **View the prototype here:** [Figma Project Link](https://www.figma.com/design/xIb5kBf15eHTVV17EHPzIr/Hammoud-s-Kitchen?node-id=824-1221&t=xSeCN4Y3MRB2rVod-1)
 
+## 📄 Project Design
+View the full UI/UX design here:  
+[Travel Agency App – PDF Export](Sara%20Amiri%20-%20Travel%20Agency%20App.pdf)
+
 
 ## Project Description
 Hammoud’s Kitchen is a sleek, delivery-first platform crafted in Figma to streamline ordering from virtual-only restaurants. The design focuses on a seamless, user-friendly ordering experience—highlighting menu browsing, quick checkout, and efficient order management. The interface blends clean visuals with intuitive navigation to bring a cozy, modern feel to digital food ordering.
