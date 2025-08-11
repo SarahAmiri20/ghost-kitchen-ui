@@ -22,5 +22,5 @@ Hammoud’s Kitchen is a sleek, delivery-first platform crafted in Figma to stre
 
 9- Responsive Design – Mobile-first layout ensuring consistency and usability across devices.
 
-Brand Identity – Clean, appetizing visuals aligned with food delivery UX standards.
+10- Brand Identity – Clean, appetizing visuals aligned with food delivery UX standards.
 
